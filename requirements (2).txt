@@ -1,0 +1,7 @@
+telethon>=1.30.0
+python-telegram-bot>=21.7
+requests>=2.31.0
+qrcode>=7.4.2
+gTTS>=2.5.1
+yt-dlp>=2024.10.7
+aiohttp>=3.9.0
